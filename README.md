@@ -1,4 +1,4 @@
-Data-Driven-Biomedical-Signal-Processing-Early-Strocke-Prediction-ML, Question about the schene
+Data-Driven-Biomedical-Signal-Processing-Early-Strocke-Prediction-ML
 ----------------------------------------------------------------------
 
 
